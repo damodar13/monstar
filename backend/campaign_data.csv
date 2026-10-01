@@ -1,0 +1,16 @@
+campaign_id,name,date,spend,clicks,conversions
+C001,Q3 Alpha Launch,2023-09-01,150.00,320,12
+C001,Q3 Alpha Launch,2023-09-02,200.50,450,18
+C001,Q3 Alpha Launch,2023-09-03,180.25,410,15
+C001,Q3 Alpha Launch,2023-09-04,220.00,500,22
+C001,Q3 Alpha Launch,2023-09-05,250.75,550,28
+C002,B2B Enterprise Upsell,2023-09-01,500.00,800,8
+C002,B2B Enterprise Upsell,2023-09-02,450.00,750,7
+C002,B2B Enterprise Upsell,2023-09-03,520.00,820,10
+C002,B2B Enterprise Upsell,2023-09-04,480.00,790,9
+C002,B2B Enterprise Upsell,2023-09-05,600.00,900,12
+C003,Retargeting Campaign,2023-09-01,50.00,150,5
+C003,Retargeting Campaign,2023-09-02,55.00,160,6
+C003,Retargeting Campaign,2023-09-03,45.00,140,4
+C003,Retargeting Campaign,2023-09-04,60.00,180,8
+C003,Retargeting Campaign,2023-09-05,65.00,190,9
